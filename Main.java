@@ -21,4 +21,7 @@ public class main{
 	public void saludoRamaDiez(){
 		System.out.println("Metodo de la rama 10");
 	}
+	public void nombre(){
+		System.out.println("kevin");
+	}
 }
